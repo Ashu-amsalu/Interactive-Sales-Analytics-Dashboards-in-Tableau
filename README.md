@@ -2,44 +2,6 @@
 
 Welcome to the Tableau Data visualization project repository, showcasing insights into customer behaviour, product performance, and sales trends through interactive dashboards.
 
-### Project Workflow
-
-##### Analyse the requirements
-- Collect customer requirements
-- Choose the write chart
-- Draw the mockups
-- Choose the colour 
-
-##### Build the data source
-- Connect the data
-- Create the data model
-- Check the data type
-- Understand the data
-
-##### Build the Chart
-- Create a calculated field and test it
-- Build a chart
-  
-  Format
-  - Removing lines and grids
-  - Clean up the  axis and headers
-  - Colouring
-  - Tooltip
- 
-##### Building dashboard
-- Draw mackup for Containers
--  Build container structure
--  Put all charts together
-
-Format
-- Distribute contents evenly
-- Format Colour, size and ...etc
-- Fit "Entire view"
-- Add legends
-- Add spacing with both inner and outer padding
-- Add filters and dynamics
-- Add icons
-
 ### Sales & Customer Dashboard Requirements
 #### Sales Dashboard
 The Sales Dashboard provides a consolidated overview of sales metrics and trends. Its primary objective is to support year-over-year performance analysis, identify growth opportunities, and highlight sales patterns for better decision-making.
@@ -70,6 +32,41 @@ The Customer Dashboard delivers insights into customer behaviour, segmentation, 
   ##### Top 10 Customers by Profit
   - Identify the top 10 customers generating the highest profit.
   - Include additional details such as rank, number of orders, current sales, profit, and last order date.
+### Project Workflow
+##### Analyse the requirements
+- Collect customer requirements
+- Choose the write chart
+- Draw the mockups
+- Choose the colour 
+
+##### Build the data source
+- Connect the data
+- Create the data model
+- Check the data type
+- Understand the data
+
+##### Build the Chart
+- Create a calculated field and test it
+- Build a chart
+  
+  Format
+  - Removing lines and grids
+  - Clean up the  axis and headers
+  - Colouring
+  - Tooltip
+ 
+##### Building dashboard
+- Draw mackup for Containers
+-  Build container structure
+-  Put all charts together
+Format
+  - Distribute contents evenly
+  - Format Colour, size and ...etc
+  - Fit "Entire view"
+  - Add legends
+  - Add spacing with both inner and outer padding
+  - Add filters and dynamics
+  - Add icons
 #### License
 This project is licensed under the MIT License, which grants you the freedom to use, modify, and share it, provided that proper credit is given.
 #### About me
