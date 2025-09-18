@@ -2,21 +2,21 @@
 
 Welcome to the Tableau Data visualization project repository, showcasing insights into customer behaviour, product performance, and sales trends through interactive dashboards.
 
-### 1. Project Workflow
+### Project Workflow
 
-##### 1. Analyse the requirements
+##### Analyse the requirements
 - Collect customer requirements
 - Choose the write chart
 - Draw the mockups
 - Choose the colour 
 
-##### 2. Build the data source
+##### Build the data source
 - Connect the data
 - Create the data model
 - Check the data type
 - Understand the data
 
-##### 3. Build the Chart
+##### Build the Chart
 - Create a calculated field and test it
 - Build a chart
   
@@ -26,7 +26,7 @@ Welcome to the Tableau Data visualization project repository, showcasing insight
   - Colouring
   - Tooltip
  
-##### 4. Building dashboard
+##### Building dashboard
 - Draw mackup for Containers
 -  Build container structure
 -  Put all charts together
